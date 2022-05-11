@@ -1,0 +1,35 @@
+form{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	border: 2px solid #e29a4d;
+	width: 300px;
+}
+
+form > *{
+	margin: 5px 0;
+}
+
+h3{
+	text-align: center;
+}
+
+.btnSwich{
+	margin-left: 30vw;
+	margin-top: 20px;
+	padding: 10px;
+	border: 3px solid #EB7E09;
+	border-radius: 30px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+}
+
+section{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}

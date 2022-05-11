@@ -1,0 +1,24 @@
+
+ul{
+	width: 100%;
+	justify-content: space-around;
+	display: flex;
+	background: #333;
+	align-items: center;
+	height: 70px;
+}
+
+.nav-link, li{
+	color: #ddd;
+}
+
+.active {
+	color: #EB7E09;
+	font-weight: 900;
+}
+
+
+.logo{
+	width: 100%;
+	height: 70px;
+}
